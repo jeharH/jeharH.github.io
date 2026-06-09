@@ -1,6 +1,6 @@
 # Jehar Henrique | Data Portfolio
 
-Portfolio pessoal publicado com GitHub Pages.
+Portfólio pessoal publicado com GitHub Pages.
 
 ## Stack
 
